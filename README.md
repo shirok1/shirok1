@@ -1,5 +1,7 @@
-### shirok1 desu!
+# shirok1 desu!
+
 Learning programing and music production.
+
 Please communicate with me in 中文 | English.
 
 [![GitHub User's Stars](https://img.shields.io/github/stars/shirok1?label=Github%20stars&style=social)](https://github.com/shirok1)
