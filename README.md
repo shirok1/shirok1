@@ -1,10 +1,4 @@
-# shirok1 desu
-
-<style>
-img {
- vertical-align:middle
-}
-</style>
+# shirok1 desu!
 
 Learning programing and music production.
 
@@ -16,7 +10,7 @@ Please communicate with me in 中文 | English.
 
 ![User Stat](https://github-readme-stats.vercel.app/api?username=shirok1&count_private=true&show_icons=true&hide_title=true)
 
-Laptop spec:
+Workstation spec:
 
 - ![ROG Zephyrus M16](https://img.shields.io/badge/ROG-Zephyrus_M16-FF0029?style=for-the-badge&logo=republic-of-gamers&logoColor=white)
 - ![Intel i7-11800H](https://img.shields.io/badge/Intel-i7_11800H-0071C5?style=for-the-badge&logo=intel&logoColor=white)
