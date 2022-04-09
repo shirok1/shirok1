@@ -14,7 +14,7 @@ Workstation spec:
 
 - ![ROG Zephyrus M16](https://img.shields.io/badge/ROG-Zephyrus_M16-FF0029?style=for-the-badge&logo=republic-of-gamers&logoColor=white)
 - ![Intel i7-11800H](https://img.shields.io/badge/Intel-i7_11800H-0071C5?style=for-the-badge&logo=intel&logoColor=white)
-- ![NVIDIA RTX3060](https://img.shields.io/badge/NVIDIA-RTX3060-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+- ![NVIDIA RTX 3060](https://img.shields.io/badge/NVIDIA-RTX_3060-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
 - Dual boot:
   - ![Windows 11 Dev Channel](https://img.shields.io/badge/Windows-11_Dev_Channel-0078D6?style=for-the-badge&logo=microsoft&logoColor=white)![Windows Terminal](https://img.shields.io/badge/Windows_Terminal-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white)
