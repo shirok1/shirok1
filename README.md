@@ -10,7 +10,8 @@ Please communicate with me in 中文 | English.
 
 ![User Stat](https://github-readme-stats.vercel.app/api?username=shirok1&count_private=true&show_icons=true&hide_title=true)
 
-Workstation spec:
+<details>
+ <summary>Workstation Specs:</summary>
 
 - ![ROG Zephyrus M16](https://img.shields.io/badge/ROG-Zephyrus_M16-FF0029?style=for-the-badge&logo=republic-of-gamers&logoColor=white)
 - ![Intel i7-11800H](https://img.shields.io/badge/Intel-i7_11800H-0071C5?style=for-the-badge&logo=intel&logoColor=white)
@@ -24,3 +25,5 @@ Workstation spec:
   - ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
   - ![CLion](https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white)![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
   - ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)![Kotlin](  https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
+
+</details>
