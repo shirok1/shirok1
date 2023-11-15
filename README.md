@@ -22,3 +22,5 @@ Please communicate with me in 中文 | English.
   - ![Ubuntu 22.04](https://img.shields.io/badge/Ubuntu-22.04-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
 
 </details>
+
+![](https://hit.yhype.me/github/profile?user_id=12044683)
