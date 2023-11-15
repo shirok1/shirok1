@@ -1,4 +1,4 @@
-# shirok1 desu!
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=shirok1%20desu!&fontAlign=70&fontAlignY=40&color=gradient)
 
 Learning programing and music production.
 
