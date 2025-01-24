@@ -21,7 +21,7 @@ Feel free to reach out if you're into any of these:
 - **Big Data, Statistics & Machine Learning**: This was my BEng major—just don’t expect me to flex any impressive GPA here.
 
 ![User Stat](https://github-readme-stats.vercel.app/api?username=shirok1&count_private=true&theme=github_dark&show_icons=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)
-![GitHub Streak](https://streak-stats.demolab.com?user=shirok1&theme=catppuccin-mocha&date_format=%5BY.%5Dn.j)
+![GitHub Streak](https://github-readme-streak-stats-seven-azure.vercel.app/?user=shirok1&theme=catppuccin-mocha&date_format=%5BY.%5Dn.j)
 
 ## My Gear
 
