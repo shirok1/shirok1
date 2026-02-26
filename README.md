@@ -29,9 +29,22 @@ Feel free to reach out if you're into any of these:
 
 ## My Gear
 
-- ![Apple MacBook Pro M1 2020](https://img.shields.io/badge/MacBook_Pro_M1_2020-000000?style=for-the-badge&logo=apple&logoColor=white)![macOS Tahoe](https://img.shields.io/badge/Tahoe-000000?style=for-the-badge&logo=macos&logoColor=white)
+### Laptops
+
+For home:
+
+- ![Apple MacBook Pro M1 2020](https://img.shields.io/badge/MacBook_Pro_M1_2020-000000?style=for-the-badge&logo=apple&logoColor=white)
 - ![ASUS ROG Zephyrus M16](https://img.shields.io/badge/Zephyrus_M16-FF0029?style=for-the-badge&logo=republic-of-gamers&logoColor=white)![Intel i7-11800H](https://img.shields.io/badge/i7_11800H-0071C5?style=for-the-badge&logo=intel&logoColor=white)![NVIDIA RTX 3060](https://img.shields.io/badge/RTX_3060-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-  - ![Windows 11 LTSC 2024](https://img.shields.io/badge/Windows-11_LTSC_2024-0078D6?style=for-the-badge&logo=microsoft&logoColor=white)![Windows Terminal](https://img.shields.io/badge/Windows_Terminal-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white)
+  - ![Windows 11 LTSC 2024](https://img.shields.io/badge/Windows-11_LTSC_2024-0078D6?style=for-the-badge&logo=microsoft&logoColor=white)
   - ![Arch Linux Stable](https://img.shields.io/badge/Stable-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)![GNOME](https://img.shields.io/badge/GNOME-4A86CF?style=for-the-badge&logo=gnome&logoColor=white)
+
+For work:
+
+- ![Apple MacBook Pro M4 Pro 16"](https://img.shields.io/badge/MacBook_Pro_M4_Pro_16"-000000?style=for-the-badge&logo=apple&logoColor=white)
+
+### Homelab
+
+- ![Radxa Orin O6N](https://img.shields.io/badge/Radxa_Orin_O6N-74BC1F?style=for-the-badge)![CIX P1](https://img.shields.io/badge/CIX_P1-0091BD?style=for-the-badge&logo=arm&logoColor=white)
+- ![Orange Pi 5](https://img.shields.io/badge/Orange_Pi_5-F4A524?style=for-the-badge)![Rockchip RK3588S](https://img.shields.io/badge/Rockchip_RK3588S-0091BD?style=for-the-badge&logo=arm&logoColor=white)
 
 ![](https://hit.yhype.me/github/profile?user_id=12044683)
