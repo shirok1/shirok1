@@ -15,7 +15,7 @@ Feel free to reach out if you're into any of these:
 - **Network Engineering**: I run my home like a mini IDC, and I'm exploring DN42.
 - **Functional Programming**: Fascinated by how modern dev concepts can be described elegantly in FP.
 - **Reverse Engineering**: Hack all the things!
-- **Music Composition**: Mostly EDM, sometimes R&B. (Almost zero music theory, though.)
+- **Music Composition**: Almost zero music theory.
 
 ### Archived Interests
 
